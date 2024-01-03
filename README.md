@@ -28,6 +28,6 @@ The Manga App is an interactive web application that generates a manga blurb and
 
 ## Installation
 ```
-git clone https://github.com/benchang323/Manga-Generation-Web-Application
+git clone https://github.com/benchang323/Manga-Generation-Web-Application.git
 cd Manga-Generation-Web-Application
 ```
