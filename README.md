@@ -1,1 +1,1 @@
-# Manga-Generation-Web-Application
+# Manga Generation Web Application
